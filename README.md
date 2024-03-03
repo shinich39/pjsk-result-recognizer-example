@@ -2,6 +2,10 @@
 
 Recognize Project SEKAI feat.Hatsune Miku game result.
 
+### Upload images to discord text channel
+
+![image](https://raw.githubusercontent.com/shinich39/pjsk-result-recognizer-example/main/1.png)
+
 ### JSON from image
 
 ```json
