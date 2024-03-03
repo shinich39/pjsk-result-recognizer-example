@@ -14,7 +14,7 @@ Recognize Project SEKAI feat.Hatsune Miku game result.
     "isChallenge" : false,
     "title" : "夜に駆ける",
     "playLevel" : 25
-    "difficulty" : 3
+    "difficulty" : "EXPERT",
     "totalNoteCount" : 932
     "condition" : 1
     "combo" : 932
@@ -28,7 +28,7 @@ Recognize Project SEKAI feat.Hatsune Miku game result.
     "isChallenge" : false,
     "title" : "タイムマシン",
     "playLevel" : 27
-    "difficulty" : 4
+    "difficulty" : "MASTER",
     "totalNoteCount" : 903
     "condition" : 0
     "combo" : 304
@@ -42,7 +42,7 @@ Recognize Project SEKAI feat.Hatsune Miku game result.
     "isChallenge" : false,
     "title" : "Wonder Style",
     "playLevel" : 24
-    "difficulty" : 3
+    "difficulty" : "EXPERT",
     "totalNoteCount" : 888
     "condition" : 1
     "combo" : 888
@@ -56,7 +56,7 @@ Recognize Project SEKAI feat.Hatsune Miku game result.
     "isChallenge" : false,
     "title" : "Happy Halloween",
     "playLevel" : 25
-    "difficulty" : 3
+    "difficulty" : "EXPERT",
     "totalNoteCount" : 827
     "condition" : 0
     "combo" : 285
