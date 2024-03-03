@@ -1,6 +1,6 @@
 # pjsk-result-recognizer-example
 
-Recognize Project SEKAI feat.Hatsune Miku game result.
+Recognize Project SEKAI feat.Hatsune Miku game score.
 
 ### Upload images to discord text channel
 
